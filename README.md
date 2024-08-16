@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github](https://github.com/Sazid99246/frontend-mentor-blog-preview-card-component)
-- Live Site URL: [Blog Preview Card Component](https://6666649334f103594dd690ff--legendary-bienenstitch-274ac4.netlify.app/)
+- Solution URL: [Github](https://github.com/Sazid99246/blog-preview-card-component)
+- Live Site URL: [Blog Preview Card Component](https://sazid99246.github.io/blog-preview-card-component/)
 
 ## My process
 
